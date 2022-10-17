@@ -1,7 +1,7 @@
 /*
 Tendremos dos objetos constructores.
 1.- Uno se encargará de la cotización, marca, año, tipo.
-2.- El otro se encargará de la interfaz y de lo que el usuario vizauliza.
+2.- El otro se encargará de la interfaz y de lo que el usuario visauliza.
 
 CONSTRUCTOR
 El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
